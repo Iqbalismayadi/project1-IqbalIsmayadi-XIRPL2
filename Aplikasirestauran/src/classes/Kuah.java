@@ -10,5 +10,5 @@ package classes;
  * @author acer
  */
 public class Kuah extends Menu{
-    public Kuah(String nama_kush) {}
+    public Kuah(String nama_kuah) {}
 }
